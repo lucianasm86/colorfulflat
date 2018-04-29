@@ -1,8 +1,11 @@
-/* Your CSS styling goes here. For example:
-
-h1 {
-	color: pink;
-	font-size: 50px;
+nav {
+    background-color: #accfd8;
 }
 
-*/
+#carouselExampleIndicators {
+    background-color: #accfd8;
+}
+
+.carousel-item.active {
+    height: 415px;
+}
